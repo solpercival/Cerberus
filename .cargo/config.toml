@@ -1,0 +1,2 @@
+[target.x86_64-pc-windows-msvc]
+rustflags = ["-L", "C:\\Users\\Yonsuncrat\\Downloads\\npcap-sdk-1.16\\Lib\\x64"]

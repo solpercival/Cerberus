@@ -4,8 +4,9 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-pcap = "1"
+pcap = "2.2.0"
 thiserror = "1"
 log = "0.4"
 env_logger = "0.10"
 dotenvy = "0.15"
+etherparse = "0.15"
